@@ -1,0 +1,46 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="E-Commerce-Application:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/E_Commerce_Application_jar</output-path>
+    <root id="archive" name="E-Commerce-Application.jar">
+      <element id="module-output" name="E-Commerce-Application" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/19/javafx-controls-19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/19/javafx-fxml-19-mac-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/19/javafx-fxml-19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/19/javafx-base-19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/19/javafx-controls-19-mac-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-j-8.0.32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/19/javafx-base-19-mac-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/19/javafx-graphics-19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/19/javafx-graphics-19-mac-aarch64.jar" path-in-jar="/" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jar" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jarsigner" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/java" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/javac" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/javadoc" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/javap" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jcmd" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jconsole" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jdb" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jdeprscan" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jdeps" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jfr" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jhsdb" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jimage" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jinfo" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jlink" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jmap" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jmod" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jpackage" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jps" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jrunscript" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jshell" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jstack" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jstat" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jstatd" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/jwebserver" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/keytool" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/rmiregistry" />
+      <element id="file-copy" path="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/bin/serialver" />
+    </root>
+  </artifact>
+</component>
