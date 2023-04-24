@@ -126,7 +126,10 @@ public class UserInterface {
 
         // Account Button
         accountButton = new Button("Account");
-        accountButton.setGraphic(signInButtonIcon);
+        ImageView accountButtonIcon = new ImageView("file:/Users/ajay/IdeaProjects/E-Commerce-Application/src/main/resources/signIn_icon.png");
+        accountButtonIcon.setFitHeight(20);
+        accountButtonIcon.setFitWidth(20);
+        accountButton.setGraphic(accountButtonIcon);
 
         // Sign Out Button
         signOutButton = new Button("Sign Out");
