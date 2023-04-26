@@ -4,7 +4,7 @@ This is a JavaFX-based e-commerce application that allows users to buy products 
 
 Home Page: <img width="1072" alt="home page" src="https://user-images.githubusercontent.com/50711982/233477458-4501e1cd-181a-41f0-ba9c-7a8df04593f1.png">
 
-Login Page: <img width="1072" alt="Screenshot 2023-04-26 at 2 28 54 PM" src="https://user-images.githubusercontent.com/50711982/234525288-83cd85e2-16b0-4fff-a90c-1d01579fef91.png">
+Login Page: <img width="1072" alt="Screenshot 2023-04-26 at 2 33 44 PM" src="https://user-images.githubusercontent.com/50711982/234526391-a9c9e89b-dbc3-4d20-854c-170b74b233df.png">
 
 Account Page: <img width="1072" alt="account section" src="https://user-images.githubusercontent.com/50711982/233476090-6d3bb77f-a212-4536-b2f6-c1c52dc09ece.png">
 
